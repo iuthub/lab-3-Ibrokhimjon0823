@@ -1,0 +1,50 @@
+.head {
+	padding: 5px;
+	/*margin-top: 10px*/
+	margin-right: 10%;
+	margin-left: 10%;
+	align-content: center;
+}
+.container {
+	border-style: solid;
+	border-width: 10px;
+	border-color: white;
+	
+
+	background-color: white;
+}
+.box1 {
+	
+	text-align: right;
+	background-color:  #A8F0F0;
+
+}
+.box2, .box3 {
+		border-style: solid;
+	border-width: 4px;
+	border-color: #C2E9E9;
+
+
+	background-color: #E8FBFB;
+}
+.a1 {
+	
+	font-size: 14pt;
+}
+#b1, #b2 {
+	  border-bottom-style: dashed;
+	  border-color: blue;
+	  border-width: 2px;
+}
+.clearfix {
+	overflow: auto;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 22.5px;
+	font-weight: bold;
+}
+img {
+	float: right;
+}
+h1 {
+	font-size: 35pt;
+}
